@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("local changes")
         println("change 2")
         println("hello from the other laptop")
+        println("tes push commit")
     }
 }
