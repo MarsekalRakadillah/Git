@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("this is contained in my second commit")
         println("local changes")
         println("change 2")
+        println("hello from the other laptop")
     }
 }
